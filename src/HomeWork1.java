@@ -58,9 +58,9 @@ public class HomeWork1 {
 
        public static void isPositive (int a){
             if (a>=0){
-                System.out.println(a + " - положительное число");
+                System.out.println(a + " - вы ввели положительное число");
             } else {
-                System.out.println(a + " - отрицательное число");
+                System.out.println(a + " - вы ввели отрицательное число");
             }
        }
 
